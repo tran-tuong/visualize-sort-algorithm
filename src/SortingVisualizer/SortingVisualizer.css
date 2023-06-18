@@ -2,7 +2,6 @@
 .array-container {
   display: flex;
   text-align: center;
-  margin-top: 50px;
 }
 .array-bar-container {
   width: 100%;
@@ -16,6 +15,6 @@
 }
 
 .btn {
-  margin-top: 30px;
+  margin-top: 10px;
 }
 
