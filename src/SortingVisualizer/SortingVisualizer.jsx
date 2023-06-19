@@ -3,10 +3,10 @@ import { getQuickSortAnimations } from "../sortingAlgorithms/sortingAlgorithms.j
 import "./SortingVisualizer.css";
 
 //Speed of the animations.
-const ANIMATION_SPEED_MS = 1;
+const ANIMATION_SPEED_MS = 15;
 
 //The number of bars (value) in the array.
-const NUMBER_OF_ARRAY_BARS = 310;
+const NUMBER_OF_ARRAY_BARS = 50;
 
 //Main color of the array bars.
 const PRIMARY_COLOR = "turquoise";
